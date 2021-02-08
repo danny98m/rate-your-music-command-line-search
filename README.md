@@ -1,6 +1,12 @@
 # Rate Your Music Fast Search
 This program utilizes command line arguments to quickly search the databases of rateyourmusic.com.
 
+**Update for Feb 2021**
+I know RYM recently has gone through a couple of major sitewide updates. These commands should still work though they might not forever as RYM is
+continuing to roll out new updates as part of their new development plan and at some point, they might move something around that breaks some
+of the functionality here. As part of their development plan features eventually having an API, I am not going to make any updates to this script
+until they release the API because using that would open up many awesome features. 
+
 ## Usage:
   * Artist Search: rym.py *name of artist/band seperated by spaces*
     * Brings user to entered artist's page.
